@@ -1,0 +1,10 @@
+.logo {
+  margin: 50px 0;
+  text-align: center;
+}
+@media (max-width: 768px) {
+  .logo img {
+    height: 40px;
+  }
+
+}
